@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on practical projects and seasoned professionals
 - 📫 How to reach me at LinkedIn: https://www.linkedin.com/in/hoanghuydao203/
 - 😄 Pronouns: Dao Huy Hoang
-- ⚡ Fun fact: Hmm :>
+- ⚡ Fun fact: Hmm, nothing special honestly :>
 
 <!---
 dhhoanggxz/dhhoanggxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
