@@ -1,3 +1,4 @@
+### Introduction
 - 👋 Hi, I’m **@dhhoanggxz** - 😄 Pronouns: **Dao Huy Hoang**
 - 👀 My major is **Data Analytics** - Data Analyst/Science/Engineer & Analytics Engineer
 - 🌱 I’m currently learning Mathematics and Computer Science at HCMUS-VNUHCM in Vietnam
@@ -7,7 +8,7 @@
 
 - THANK YOU FOR YOUR VISIT <3
 
-### 📈 User Statistics
+### User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
