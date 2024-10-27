@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhhoanggxz, 😄 Pronouns: Dao Huy Hoang
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Mathematics and Computer Science at HCMUS-VNUHCM
-- 💞️ I’m looking to collaborate on practical projects and seasoned professionals
+-----------------------------------------------------------------------------
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/hoanghuydao203/
 - ⚡ Visit my website at: https://dhhoanggxz.github.io/Portfolio-ddhoanggxz/
 
