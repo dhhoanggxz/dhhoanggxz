@@ -39,12 +39,12 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhhoanggxz">
-          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhhoanggxz&theme=dracula"/>
+          <img width="415" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhhoanggxz&theme=dracula"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhhoanggxz&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhhoanggxz&theme=dracula"/>
+          <img width="415" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhhoanggxz&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -53,12 +53,12 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhhoanggxz">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhhoanggxz&theme=dracula"/>
+          <img width="415" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhhoanggxz&theme=dracula"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhhoanggxz">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhhoanggxz&theme=dracula"/>
+          <img width="415" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhhoanggxz&theme=dracula"/>
         </a>
       </td>
     </tr>
