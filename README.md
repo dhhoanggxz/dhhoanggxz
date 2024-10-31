@@ -39,7 +39,7 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhhoanggxz">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhhoanggxz&theme=dracula"/>
+          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhhoanggxz&theme=dracula"/>
         </a>
       </th>
       <th>
